@@ -23,7 +23,7 @@ A detail-oriented and results-driven Computer Science student specializing in Ar
 
 <h3>🌐 Connect with Me</h3>
 <p>
-<a href="https://www.linkedin.com/in/bhanuprakash/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/bhanu-prakash-mandala/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/bhanuprakashh007" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
