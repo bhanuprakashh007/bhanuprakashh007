@@ -57,8 +57,8 @@ A detail-oriented and results-driven Computer Science student specializing in Ar
 
 <h3>📊 GitHub Stats</h3>
 <p>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=satyalaxminarasimha&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyalaxminarasimha&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bhanuprakashh007&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuprakashh007&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyalaxminarasimha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
